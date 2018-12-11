@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volume Limas</string>
+    <string name="volume_limas">Volume Limas SegiEmpat</string>
+    <string name="masukan_tinggi">masukan tinggi</string>
+    <string name="masukan_panjang">masukan panjang</string>
+    <string name="masukan_lebar">masukan lebar</string>
+    <string name="hitung">Hitung</string>
+</resources>
